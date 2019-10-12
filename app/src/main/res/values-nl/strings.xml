@@ -633,6 +633,7 @@ Bijvoorbeeld 1m3 of 2-6."</string>
     <string name="quest_buildingType_greenhouse">"Serre"</string>
     <string name="quest_buildingType_other">"Andere"</string>
     <string name="quest_buildingType_shed">"Schuur"</string>
+    <string name="quest_buildingType_shed_description">"Een gebouwtje voor opslag van tuinmateriaal, fietsen en gereedschap"</string>
     <string name="quest_buildingType_hut">"Hut"</string>
     <string name="quest_buildingType_hut_description">"Een klein, simpel huisje of schuilplaats tegen de regen"</string>
     <string name="quest_buildingType_roof">"Dak"</string>
